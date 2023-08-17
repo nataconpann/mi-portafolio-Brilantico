@@ -1,8 +1,8 @@
 
 # Description
 
-Este es un portafolio creado con HTML|CSS|JavaScript 
-Para una propuesta del website de la Agencia de Marketing Brilantico 
+Este es un portafolio creado con HTML | CSS | JavaScript 
+Para la propuesta del website de la Agencia de Marketing Brilantico 
 
 
 
