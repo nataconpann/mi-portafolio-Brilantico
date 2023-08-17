@@ -10,7 +10,9 @@ Para una propuesta del website de la Agencia de Marketing Brilantico
 
 - [@nataconpann](https://www.github.com/nataconpann)
 
+## Ver ejemplo en vivo
 
+- [https://nataconpann.github.io/mi-portafolio-Brilantico/](https://nataconpann.github.io/mi-portafolio-Brilantico/)
 
 ## Instalasion 
 Este proyecto no necesita Instalasion. Simplemente abre la carpeta o haz doble click en el index.html
